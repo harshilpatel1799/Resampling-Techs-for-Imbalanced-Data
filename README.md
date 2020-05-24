@@ -17,8 +17,8 @@ Oversampling Techniques:
 
  Combined Resampling:
  
- 1. SMOTETomek
- 2. SMOTEENN
+   1. SMOTETomek
+   2. SMOTEENN
 
 ## Case Study of Imbalance Data: Bank Marketing
 
