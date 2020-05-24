@@ -1,6 +1,5 @@
 # Resampling-Techs-for-Imbalanced-Data
 
-## Resampling Techs for Imbalanced Datasets
 ## Python imbalanced-learn Package
 ## Illustration for Resampling Methods
 
@@ -27,6 +26,6 @@
   
   ### The Metric Trap
   ### Confusion Matrix
-  Apply Resampling
+  ### Apply Resampling
 
 ## Recommand Readings
