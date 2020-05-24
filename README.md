@@ -2,7 +2,7 @@
 
 ## Resampling Techs for Imbalanced Datasets
 ## Python imbalanced-learn Package
-##Illustration for Resampling Methods
+## Illustration for Resampling Methods
 
 Undersampling Techniques:
   1. Random Undersampling
