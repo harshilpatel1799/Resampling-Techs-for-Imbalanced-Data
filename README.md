@@ -8,7 +8,8 @@ Undersampling Techniques:
   1. Random Undersampling
   2. Tomek Links
   3. ENN (Edited Nearest Neighbours)
-Oversampling Techniques
+
+Oversampling Techniques:
 
 Random Oversampling
 SMOTE (Synthetic Minority Over-Sampling Technique)
