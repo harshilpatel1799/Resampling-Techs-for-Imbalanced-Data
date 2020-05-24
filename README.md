@@ -11,25 +11,26 @@ Undersampling Techniques:
 
 Oversampling Techniques:
 
-Random Oversampling
-SMOTE (Synthetic Minority Over-Sampling Technique)
-ADASYN (Adaptive Synthetic Sampling)
-Combined Resampling
+ 1.Random Oversampling
+ 2. SMOTE (Synthetic Minority Over-Sampling Technique)
+ 3. ADASYN (Adaptive Synthetic Sampling)
 
-SMOTETomek
-SMOTEENN
-Case Study of Imbalance Data: Bank Marketing
+ Combined Resampling:
+ 
+ 1. SMOTETomek
+ 2. SMOTEENN
 
-Tidy Data
+## Case Study of Imbalance Data: Bank Marketing
 
-Check missing
-Get X and y
-Check imbalance
-Transformation on X and y
-The Metric Trap
+  Tidy Data:
 
-Confusion Matrix
+    1. Check missing
+    2. Get X and y
+    3. Check imbalance
+    4. Transformation on X and y
+  
+  The Metric Trap
+  Confusion Matrix
+  Apply Resampling
 
-Apply Resampling
-
-Recommand Reading
+## Recommand Readings
